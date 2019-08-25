@@ -1,7 +1,0 @@
- 453  echo "# hello-world" >> README.md
-  454  git init
-  455  git add README.md
-  456  git commit -m "first commit"
-  457  git remote add origin https://github.com/livelearndev/hello-world.git
-  458  git push -u origin master
-
