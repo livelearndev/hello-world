@@ -19,6 +19,6 @@ https://github.com/tiencong283/gosysmon
 	-c config_file.xml		:update gosysmon service configuration
 	</code>
 </pre>
-2. You need to compile project:</br>Access to project folder gosysmon and run this command: <code> make && ./gosysmon</code>
+3. You need to compile project:</br>Access to project folder gosysmon and run this command: <code> make && ./gosysmon</code>
    
 	
