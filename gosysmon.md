@@ -14,8 +14,8 @@ https://github.com/tiencong283/gosysmon
 1. Manage gosysmon service options:</br>
 <pre>
 	<code>
-	-i						:install service
-	-u						:uninstall service
+	-i				:install service
+	-u				:uninstall service
 	-c config_file.xml		:update gosysmon service configuration
 	</code>
 </pre>
