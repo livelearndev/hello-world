@@ -12,9 +12,13 @@
 https://github.com/tiencong283/gosysmon
 ## Start the monitor system: 
 1. Manage gosysmon service options:</br>
-<pre><code>-i		:install service</code></pre>
-<pre><code>-u		:uninstall service</code></pre>
-<pre><code>-c config_file.xml		:update gosysmon service configuration</code></pre>
-1. You need to compile project:</br>Access to project folder gosysmon and run this command: <code> make && ./gosysmon</code>
+<pre>
+	<code>
+	-i						:install service
+	-u						:uninstall service
+	-c config_file.xml		:update gosysmon service configuration
+	</code>
+</pre>
+2. You need to compile project:</br>Access to project folder gosysmon and run this command: <code> make && ./gosysmon</code>
    
 	
