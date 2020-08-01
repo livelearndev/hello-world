@@ -18,6 +18,6 @@
 	-c config_file.xml		:update gosysmon service configuration
 	</code>
 </pre>
-3. To compile and run project: <code> make && ./gosysmon</code>
+3. To compile and run project:</br> <code> make && ./gosysmon</code>
    
 	
