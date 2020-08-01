@@ -1,8 +1,8 @@
 
 # Sysmon server
 ## Install required dependencies
-|Download Page| Notes |
-|-|-|
+| Download Page| Notes |
+|:-:|-|
 | [Golang](https://golang.org/dl/)| Install Go version that support modules feature (>= Go 1.13)|
 | [Nodejs](https://nodejs.org/en/download/)| Install latest LTS Version|
 | [PostgreSQL](https://www.postgresql.org/download/)|After installed: <br /> <li><code>sudo -u postgres createuser --createdb --pwprompt gosysmon</code><br />Enter your password for user gosysmon. You also need to set your password in gosysmon/config.yml</li><li><code>createdb --host=localhost --username=gosysmon --password gosysmon</code></li><li><code>psql --host=localhost --username=gosysmon --password gosysmon -f resources/gosysmon.sql</code></li>|
